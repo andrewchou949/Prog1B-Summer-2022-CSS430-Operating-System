@@ -2,7 +2,7 @@
 
 This assignment is focusing on creating a manual shell console for communication purposes between users and the kernel. The shell.java file is the implementation file of the assignment.
 
-#To run
+# To run
 
 In console or IDE terminal, 
 1. Locate the file directory
